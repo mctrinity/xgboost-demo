@@ -3,7 +3,11 @@ scikit-learn
 pandas
 numpy
 matplotlib
+seaborn  # For improved visualization
 langchain
+langchain-community
+langchain-openai
 openai
 tensorflow  # (if using image-based features)
 torch       # (if using deep learning models)
+
