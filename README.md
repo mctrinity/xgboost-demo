@@ -87,5 +87,5 @@ Feel free to fork, modify, and submit a pull request! 🚀
 ---
 
 ## 📜 License  
-MIT License © 2024 Maki Dizon  
+MIT License © 2025 Maki Dizon  
 
