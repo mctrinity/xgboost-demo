@@ -1,0 +1,9 @@
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+langchain
+openai
+tensorflow  # (if using image-based features)
+torch       # (if using deep learning models)

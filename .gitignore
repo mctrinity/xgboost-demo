@@ -1,0 +1,39 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Data files
+data/
+*.csv
+*.json
+*.xlsx
+*.db
+
+# Model files
+*.h5
+*.pkl
+*.onnx
+*.joblib
+
+# API keys and config files
+config.yaml
+secrets.json
+
+# VS Code and IDE settings
+.vscode/
+.idea/
